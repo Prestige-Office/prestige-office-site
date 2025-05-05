@@ -4,9 +4,9 @@ description : "this is a meta description"
 
 office:
   title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
+  mobile : "+48 793 594 545"
+  email : "jackiewicz.michal@wp.pl"
+  location : "Warsaw, Poland"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour
