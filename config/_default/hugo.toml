@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-title = "Vex | hugo landing page template"
+baseurl = "https://zixzelz.github.io/michal-company-site/"
+title = "Vex | michal jackiewicz"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
