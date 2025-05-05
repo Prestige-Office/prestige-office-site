@@ -1,1 +1,25 @@
 .DS_Store
+
+# Hugo output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Node modules (if using npm/yarn for assets)
+/node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# IDE settings (optional)
+.vscode/
+.idea/
