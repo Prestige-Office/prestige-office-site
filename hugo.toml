@@ -1,7 +1,7 @@
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
-logo_width = "100px"
+logo = "images/logo-header.png"
+logo_width = "200px"
 logo_text = "Biuro Partner"
 # Meta data
 description = "This is meta description"
