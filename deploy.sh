@@ -16,7 +16,14 @@ git checkout gh-pages || git checkout --orphan gh-pages
 
 # Remove all content in the gh-pages branch (except .git)
 echo "Cleaning the gh-pages branch..."
+cp .gitignore .gitmodules /tmp/
+
 git rm -rf .
+
+mv /tmp/.gitignore ./
+mv /tmp/.gitmodules ./
+
+git add .gitignore .gitmodules
 
 # Copy the content of public/ to the root of the gh-pages branch
 echo "Copying content from public/ to the gh-pages branch..."
