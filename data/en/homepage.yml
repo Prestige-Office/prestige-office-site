@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Nasze motto<br>Zaopatrzenie biura na miarę Twoich oczekiwań"
+  content: ""
   image: "images/logo-big.png"
   button:
     enable: true
@@ -17,37 +17,32 @@ features:
 
   # feature at the left of the image
   left_side:
-    # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Artykuły biurowe"
+      icon: "tf-ion-ios-paper-outline"
+      content: "Papier, długopisy, zszywacze i wiele innych niezbędnych produktów do biura."
 
-      # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Produkty spożywcze"
+      icon: "tf-ion-ios-nutrition-outline"
+      content: "Dostarczamy artykuły spożywcze potrzebne w codziennym funkcjonowaniu biura."
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Środki czystości"
+      icon: "tf-ion-ios-water-outline"
+      content: "Szeroki wybór środków do utrzymania czystości i higieny w miejscu pracy."
 
   # feature at the right of the image
   right_side:
-    # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Materiały eksploatacyjne"
+      icon: "tf-ion-ios-printer-outline"
+      content: "Materiały do drukarek i innych urządzeń biurowych."
 
-      # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Wysoka jakość i estetyka"
+      icon: "tf-ion-ios-checkmark-circle-outline"
+      content: "Produkty trwałe, estetyczne i funkcjonalne."
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Indywidualne podejście"
+      icon: "tf-ion-ios-people-outline"
+      content: "Każdego klienta obsługujemy z pełnym zaangażowaniem i fachowym doradztwem."
+
 
 ############################# promo ############################
 promo:
@@ -63,27 +58,15 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "O nas"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+      title: "Jesteśmy na rynku już ponad 15 lat."
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
-
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Od tego czasu dbamy o to, aby Twoja praca była łatwiejsza i przyjemniejsza.  
+        Cechujemy się ogromnym doświadczeniem, terminowością oraz zaangażowaniem.  
+        Niezależnie od tego, czy jesteś jednoosobową firmą, czy przedstawicielem korporacji — każdemu gwarantujemy fachową obsługę i doradztwo."
       button:
         enable: false
         label: "Check Features"
