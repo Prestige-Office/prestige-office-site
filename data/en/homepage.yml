@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: "Our Core Features"
-  image: "images/watch-2.png"
+  image: "images/product-set.png"
 
   # feature at the left of the image
   left_side:
@@ -61,7 +61,7 @@ about_product:
   title: "O nas"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/about-company.png"
       title: "Jesteśmy na rynku już ponad 15 lat."
       content:
         "Od tego czasu dbamy o to, aby Twoja praca była łatwiejsza i przyjemniejsza.  
