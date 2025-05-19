@@ -7,7 +7,7 @@ logo_text = "Biuro Partner"
 description = "This is meta description"
 author = "Themefisher"
 # currency
-currency = "$"
+currency = "zł + VAT"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
