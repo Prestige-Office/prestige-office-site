@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "https://zixzelz.github.io/michal-company-site/"
-title = "Vex | michal jackiewicz"
+baseurl = "https://www.prestige-office.eu/"
+title = "prestige-office | michal jackiewicz"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
