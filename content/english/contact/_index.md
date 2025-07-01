@@ -14,13 +14,11 @@ registration:
   company_name: "PRESTIGE-OFFICE"
   address: "Ul. Księcia Janusza 42/m3, 01-452 Warszawa"
   nip: "526 282 63 99"
-  regon: "000000000"
+  regon: "385424718"
   court: "Sąd Rejonowy dla M. St. Warszawy w Warszawie, XIV Wydział Gospodarczy"
-  krs_number: "0000000000"
-  capital: "**** PLN"
   bank:
-    name: "BGŻ BNP Paribas S.A."
-    account_number: "48 0000 0000 0000 0000"
+    name: "Bank Millennium SA"
+    account_number: "85 1160 2202 0000 0004 5747 0480"
 
 # opening hour
 opennig_hour:
